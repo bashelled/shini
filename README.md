@@ -8,11 +8,11 @@ shini is a small zsh style everyone can use. It comes with the following feature
 3. short hostname
 4. time
 5. git branch (builtin)
+6. last command status (wip)
 
 Features to come:
 
-1. git status (working on)
-2. last command status (wip)
+1. git status (working on) 
 
 [![asciicast](https://asciinema.org/a/387244.svg)](https://asciinema.org/a/387244)
 
