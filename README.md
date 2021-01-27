@@ -3,16 +3,16 @@ A mini ZSH theme with all the essenstials.
 
 shini is a small zsh style everyone can use. It comes with the following features:
 
-directory (with home ~ aliance)
-username
-short hostname
-time
-git branch (builtin)
+1. directory (with home ~ aliance)
+2. username
+3. short hostname
+4. time
+5. git branch (builtin)
 
 Features to come:
 
-git status
-last command status
+git status (working on)
+last command status (wip)
 
 [![asciicast](https://asciinema.org/a/387244.svg)](https://asciinema.org/a/387244)
 
