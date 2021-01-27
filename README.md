@@ -3,7 +3,7 @@ A mini ZSH theme with all the essenstials.
 
 shini is a small zsh style everyone can use. It comes with the following features:
 
-1. directory (with home ~ aliance)
+1. directory (with home/~ alias)
 2. username
 3. short hostname
 4. time
