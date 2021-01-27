@@ -22,7 +22,7 @@ shini can be used on any OS with any zsh config. All you need is **zsh**, *git* 
 ```
 git clone https://github.com/bashelled/shini-zsh-theme/
 cd shini-zsh-theme
-source /path/of/shini.zsh-theme # must be your home dir
+source /path/of/shini.zsh-theme
 ```
 
 To permantly install, you need to write the last command to your .zshrc, or copy all of the theme to your .zshrc.
