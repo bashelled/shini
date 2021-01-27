@@ -11,8 +11,8 @@ shini is a small zsh style everyone can use. It comes with the following feature
 
 Features to come:
 
-git status (working on)
-last command status (wip)
+1. git status (working on)
+2. last command status (wip)
 
 [![asciicast](https://asciinema.org/a/387244.svg)](https://asciinema.org/a/387244)
 
