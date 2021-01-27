@@ -1,4 +1,3 @@
-# shini
 A mini ZSH theme with all the essenstials.
 
 shini is a small zsh style everyone can use. It comes with the following features:
@@ -24,6 +23,8 @@ git clone https://github.com/bashelled/shini-zsh-theme/
 cd shini-zsh-theme
 source /path/of/shini.zsh-theme
 ```
+or
+<a id="raw-url" href="https://raw.githubusercontent.com/bashelled/shini-zsh-theme/master/shini.zsh-theme">Download Shini (.zsh-theme)</a>
 
 To permantly install, you need to write the last command to your .zshrc, or copy all of the theme to your .zshrc.
 
