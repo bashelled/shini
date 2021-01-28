@@ -24,6 +24,7 @@ source /path/of/shini.zsh-theme
 ```
 or
 <a id="raw-url" href="https://raw.githubusercontent.com/bashelled/shini-zsh-theme/master/shini.zsh-theme">Copy Shini (.zsh-theme)</a>
+
 Copy everything and paste it into a file like shini.zsh-theme or theme.zsh or zsh-shini.theme.
 To permantly install, you need to write the last command to your .zshrc, or copy all of the theme to your .zshrc.
 
