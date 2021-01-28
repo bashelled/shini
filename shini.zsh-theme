@@ -1,4 +1,4 @@
-# shini v0.17-beta - a minimal zsh prompt
+# shini v1.1 - a minimal zsh prompt
 
 # username, with hostname
 # ex. luigi@homepc
