@@ -9,7 +9,7 @@ shini is a small zsh style everyone can use. It comes with the following feature
 4. time
 5. git branch (builtin)
 6. last command status (wip)
-
+7. ***(NEW)*** easy customisation for newer users, if you want the original for expertsthen please go to the folder entitled *old*.
 Features to come:
 
 1. git status (working on) 
