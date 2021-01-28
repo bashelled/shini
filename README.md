@@ -1,7 +1,8 @@
 # shini
 A mini ZSH theme with all the essenstials.
 
-shini is a small zsh style everyone can use. It comes with the following features:
+shini is a small zsh style everyone can use. It s
+It comes with the following features:
 
 1. directory (with home/~ alias)
 2. username
@@ -15,6 +16,8 @@ Features to come:
 1. git status (working on) 
 
 [![asciicast](https://asciinema.org/a/387244.svg)](https://asciinema.org/a/387244)
+
+# Installation
 
 shini can be used on any OS with any zsh config. All you need is **zsh**, *git* and a terminal.
 
