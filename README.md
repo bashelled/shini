@@ -21,20 +21,24 @@ Features to come:
 
 shini can be used on any OS with any zsh config. All you need is **zsh**, *git* and a terminal.
 
-## Normal
+## ZSH (no strings applied)
 ```
 git clone https://github.com/bashelled/shini-zsh-theme/
 cd shini-zsh-theme
 source /path/of/shini.zsh-theme
 ```
-
+or go to the releases tab and select the version you want, then download it. 
 To permantly install, you need to write the last command to your .zshrc, or copy all of the theme to your .zshrc.
 
 ## Oh My Zsh
 ```
-git clone https://github.com/bashelled/shini-zsh-theme/
-cd shini-zsh-theme
-cp shini.zsh-theme $ZSH_CUSTOM/themes
+git clone https://github.com/bashelled/shini.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/shini
 ```
+or if you are in China, use the mirror on Gitee (或者如果您在中国，请使用Gitee上的镜子):
+```
+git clone https://gitee.com/bashelled/shini.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/shini
+```
+*(yes, this may or may be not a copypaste of p10k's instructions)*
 
-Set your .zshrc to ```ZSH_THEME="$ZSH_CUSTOM/themes/shini"```.
+
+Set your .zshrc to ```ZSH_THEME="shini/shini-omz"```, or to get the classic, use ```shini/shini```.
