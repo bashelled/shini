@@ -32,9 +32,13 @@ To permantly install, you need to write the last command to your .zshrc, or copy
 
 ## Oh My Zsh
 ```
-git clone https://github.com/bashelled/shini-zsh-theme/
-cd shini-zsh-theme
-cp shini.zsh-theme $ZSH_CUSTOM/themes
+git clone https://github.com/bashelled/shini.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/shini
 ```
+or if you are in China, use the mirror on Gitee (或者如果您在中国，请使用Gitee上的镜子):
+```
+git clone https://gitee.com/bashelled/shini.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/shini
+```
+*(yes, this may or may be not a copypaste of p10k's instructions)*
 
-Set your .zshrc to ```ZSH_THEME="$ZSH_CUSTOM/themes/shini"```.
+
+Set your .zshrc to ```ZSH_THEME="shini/shini-omz"```, or to get the classic, use ```shini/shini```.
