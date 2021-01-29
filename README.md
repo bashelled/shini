@@ -21,13 +21,13 @@ Features to come:
 
 shini can be used on any OS with any zsh config. All you need is **zsh**, *git* and a terminal.
 
-## Normal
+## ZSH (no strings applied)
 ```
 git clone https://github.com/bashelled/shini-zsh-theme/
 cd shini-zsh-theme
 source /path/of/shini.zsh-theme
 ```
-
+or go to the releases tab and select the version you want, then download it. 
 To permantly install, you need to write the last command to your .zshrc, or copy all of the theme to your .zshrc.
 
 ## Oh My Zsh
