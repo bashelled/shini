@@ -30,7 +30,6 @@ ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[grey]%}@%f"
 # time
 # ex. 12:23AM
 curtime() {
-
 echo "%t"
 }
 
@@ -41,5 +40,5 @@ echo "%(?.%{$fg[green]%}O%f.%{$fg[red]%}X%f)"
 }
 
 setopt PROMPT_SUBST
-PROMPT='$(directory) $(git_prompt_info) %#> '
+PROMPT='$(directory) $(git_prompt_info) $(git_prompt_status) %#> '
 RPROMPT='$(userathost), $(curtime), $(failstat)'
