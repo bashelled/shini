@@ -1,5 +1,5 @@
 
-# shini - a minimal zsh prompt
+# shini v1.1 - a minimal zsh prompt
 
 # Load version control information
 autoload -Uz vcs_info
