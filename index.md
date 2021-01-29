@@ -6,11 +6,6 @@ shini is a small zsh style everyone can use. It comes with the following feature
 4. time
 5. git branch (builtin)
 6. last command status (wip)
-7. easy customization
-
-Features to come:
-
-1. git status (working on) 
 
 [![asciicast](https://asciinema.org/a/387244.svg)](https://asciinema.org/a/387244)
 
@@ -34,5 +29,5 @@ git clone https://github.com/bashelled/shini-zsh-theme/
 cd shini-zsh-theme
 cp shini.zsh-theme $ZSH_CUSTOM/themes
 ```
-Set your .zshrc to ```ZSH_THEME="$ZSH_CUSTOM/themes/shini"```.
+Set your .zshrc to ```ZSH_THEME="shini/shini"```.
 Note: You cannot remove the .zsh-theme extension. Otherwise, you will only get the classic zsh theme. (You don't just want "hostname%" do you?)
