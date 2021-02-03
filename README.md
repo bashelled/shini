@@ -1,7 +1,7 @@
 # shini
 A mini ZSH theme with all the essenstials.
 
-![A photo of Shini in Chrome OS (Debian 10)](shini-screenshot.png)
+![A photo of Shini in Chrome OS (Debian 10)](screenshot.png)
 
 shini is a small zsh style everyone can use. It's a tiny theme that just shouts out small.
 It comes with the following features:
