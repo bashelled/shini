@@ -1,6 +1,8 @@
 # shini
 A mini ZSH theme with all the essenstials.
 
+![A photo of Shini in Chrome OS (Debian 10)](shini-screenshot.png)
+
 shini is a small zsh style everyone can use. It's a tiny theme that just shouts out small.
 It comes with the following features:
 
@@ -10,7 +12,6 @@ It comes with the following features:
 4. time
 5. git branch (builtin)
 6. last command status (wip)
-7. ~~(NEW) easy customisation for newer users~~ The customization feature has been removed due to a unfixable glitch.
  
 
 [![asciicast](https://asciinema.org/a/387244.svg)](https://asciinema.org/a/387244)
