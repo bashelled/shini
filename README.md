@@ -40,3 +40,10 @@ git clone https://gitee.com/bashelled/shini.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/c
 
 
 Set your .zshrc to  ```shini/(mu)shini```.
+
+## Antigen
+Add this to your rc:
+```
+antigen theme bashelled/shini
+   
+   
