@@ -45,5 +45,4 @@ Set your .zshrc to  ```shini/(mu)shini```.
 Add this to your rc:
 ```
 antigen theme bashelled/shini
-   
-   
+```
