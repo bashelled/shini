@@ -36,10 +36,8 @@ or if you are in China, use the mirror on Gitee (或者如果您在中国，请�
 ```
 git clone https://gitee.com/bashelled/shini.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/shini
 ```
-*(yes, this may or may be not a copypaste of p10k's instructions)*
 
-
-Set your .zshrc to  ```shini/(mu)shini```.
+Set your .zshrc to  ```shini```.
 
 ## Antigen
 Add this to your rc:
